@@ -7,7 +7,7 @@ use \BoardGame\Tile;
 class TileTest extends \PHPUnit_Framework_TestCase
 {
 
-    public function firstTest()
+    public function testFirst()
     {
         $tile = new Tile();
 
